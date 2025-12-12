@@ -45,12 +45,10 @@ Scripts      Python · Bash
 
 ### Currently Exploring
 
-<img align="right" width="180" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDd4MnBvb2ttMG9uMnE1MnNmNHpnaTF1a2g1OW1nNnBuN2VqOXZmYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/077i6AULCXc0FKTj9s/giphy.gif" />
 
-- DOM-based XSS through JavaScript analysis
+- DOM-based XSS 
 - OAuth 2.0 & OIDC misconfigurations  
-- Race conditions in payment flows
-- GraphQL introspection & injection
+- Business logic vulnerabilities
 
 <br clear="right"/>
 
@@ -61,7 +59,7 @@ Scripts      Python · Bash
     <img src="https://img.shields.io/badge/linkedin-callensrobert-0A66C2?style=flat&logo=linkedin" />
   </a>
   &nbsp;
-  <a href="https://app.intigriti.com/profile/YOUR_USERNAME">
+  <a href="https://app.intigriti.com/researcher/profile/robert_callens">
     <img src="https://img.shields.io/badge/intigriti-hunter-4338CA?style=flat" />
   </a>
 </p>
