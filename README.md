@@ -8,7 +8,6 @@ Cybersecurity student at UC Leuven-Limburg, based in Leuven, Belgium. I focus on
 - **Bug bounty:** reporting vulnerabilities through Intigriti
 - **Web development:** full-stack TypeScript projects
 - **Hardware:** building [Nocta Labs](https://www.noctalabs.sh), starting with [Nocta One](https://github.com/NoctaLabs-Sh/Nocta-One-Hardware), an open-hardware offline password manager with an e-ink screen
-- **Side project:** [OpenRX](https://github.com/RobertCallens/OpenRX), an open-source 2.4 GHz ExpressLRS receiver for drones, designed in KiCad
 
 ### Stack
 
