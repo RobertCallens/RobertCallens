@@ -7,7 +7,8 @@ Cybersecurity student at UC Leuven-Limburg, based in Leuven, Belgium. I focus on
 - **Web application security:** XSS, IDOR, authentication and access control, API security, business logic
 - **Bug bounty:** reporting vulnerabilities through Intigriti
 - **Web development:** full-stack TypeScript projects
-- **Hardware:** [OpenRX](https://github.com/RobertCallens/OpenRX), an open-source 2.4 GHz ExpressLRS receiver for drones, designed in KiCad
+- **Hardware:** building [Nocta Labs](https://www.noctalabs.sh), starting with [Nocta One](https://github.com/NoctaLabs-Sh/Nocta-One-Hardware), an open-hardware offline password manager with an e-ink screen
+- **Side project:** [OpenRX](https://github.com/RobertCallens/OpenRX), an open-source 2.4 GHz ExpressLRS receiver for drones, designed in KiCad
 
 ### Toolkit
 
@@ -32,4 +33,4 @@ Cybersecurity student at UC Leuven-Limburg, based in Leuven, Belgium. I focus on
 
 ### Contact
 
-[LinkedIn](https://www.linkedin.com/in/callensrobert) · [Intigriti](https://app.intigriti.com/researcher/profile/robert_callens)
+[Nocta Labs](https://www.noctalabs.sh) · [LinkedIn](https://www.linkedin.com/in/callensrobert) · [Intigriti](https://app.intigriti.com/researcher/profile/robert_callens)
