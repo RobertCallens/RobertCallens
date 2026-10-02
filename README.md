@@ -10,16 +10,11 @@ Cybersecurity student at UC Leuven-Limburg, based in Leuven, Belgium. I focus on
 - **Hardware:** building [Nocta Labs](https://www.noctalabs.sh), starting with [Nocta One](https://github.com/NoctaLabs-Sh/Nocta-One-Hardware), an open-hardware offline password manager with an e-ink screen
 - **Side project:** [OpenRX](https://github.com/RobertCallens/OpenRX), an open-source 2.4 GHz ExpressLRS receiver for drones, designed in KiCad
 
-### Toolkit
+### Stack
 
-| Area | Tools |
-| --- | --- |
-| **Recon** | subfinder, httpx, nuclei |
-| **Crawling** | katana, gau, hakrawler |
-| **Fuzzing** | ffuf, feroxbuster |
-| **Testing** | Burp Suite, browser DevTools |
-| **Languages** | TypeScript, JavaScript, Python, Bash, Java, C/C++ |
-| **Web** | Vue, Docker |
+TypeScript, Vue, Python, Bash, Java, C/C++, Docker.
+
+For security work: Burp Suite, nuclei, ffuf, and the usual recon tooling.
 
 ### Currently learning
 
