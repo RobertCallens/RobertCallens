@@ -16,16 +16,6 @@ TypeScript, Vue, Python, Bash, Java, C/C++, Docker.
 
 For security work: Burp Suite, nuclei, ffuf, and the usual recon tooling.
 
-### Currently learning
-
-- DOM-based XSS
-- OAuth 2.0 and OpenID Connect misconfigurations
-- Business logic vulnerabilities
-
-### Certifications
-
-- IPv6 Certification, Hurricane Electric (2025)
-
 ### Contact
 
 [Nocta Labs](https://www.noctalabs.sh) · [LinkedIn](https://www.linkedin.com/in/callensrobert) · [Intigriti](https://app.intigriti.com/researcher/profile/robert_callens)
